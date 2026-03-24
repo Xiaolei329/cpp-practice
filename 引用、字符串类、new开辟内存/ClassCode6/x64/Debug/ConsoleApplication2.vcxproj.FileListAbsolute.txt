@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\引用、字符串类、new开辟内存\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+C:\Users\Administrator\Desktop\引用、字符串类、new开辟内存\ClassCode6\x64\Debug\ConsoleApplication2.exe

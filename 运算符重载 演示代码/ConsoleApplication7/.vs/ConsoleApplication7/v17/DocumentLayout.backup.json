@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\\u8FD0\u7B97\u7B26\u91CD\u8F7D \u6F14\u793A\u4EE3\u7801\\ConsoleApplication7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47FD9C80-3274-4D49-96AA-3B3E8665F211}|ConsoleApplication7.vcxproj|D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\\u8FD0\u7B97\u7B26\u91CD\u8F7D \u6F14\u793A\u4EE3\u7801\\ConsoleApplication7\\ConsoleApplication7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FD9C80-3274-4D49-96AA-3B3E8665F211}|ConsoleApplication7.vcxproj|solutionrelative:ConsoleApplication7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication7.cpp",
+              "DocumentMoniker": "D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\\u8FD0\u7B97\u7B26\u91CD\u8F7D \u6F14\u793A\u4EE3\u7801\\ConsoleApplication7\\ConsoleApplication7.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication7.cpp",
+              "ToolTip": "D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\\u8FD0\u7B97\u7B26\u91CD\u8F7D \u6F14\u793A\u4EE3\u7801\\ConsoleApplication7\\ConsoleApplication7.cpp",
+              "RelativeToolTip": "ConsoleApplication7.cpp",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-21T04:56:22.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

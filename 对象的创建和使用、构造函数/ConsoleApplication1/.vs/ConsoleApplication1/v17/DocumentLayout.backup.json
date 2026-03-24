@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521B\u5EFA\u548C\u4F7F\u7528\u3001\u6784\u9020\u51FD\u6570\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9DABF6-FF35-446D-A993-20866C602198}|ConsoleApplication1.vcxproj|D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521B\u5EFA\u548C\u4F7F\u7528\u3001\u6784\u9020\u51FD\u6570\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D9DABF6-FF35-446D-A993-20866C602198}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521B\u5EFA\u548C\u4F7F\u7528\u3001\u6784\u9020\u51FD\u6570\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
+              "ToolTip": "D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\\u5BF9\u8C61\u7684\u521B\u5EFA\u548C\u4F7F\u7528\u3001\u6784\u9020\u51FD\u6570\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-19T11:18:50.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

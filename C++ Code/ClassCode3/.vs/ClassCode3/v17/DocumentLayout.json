@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\C\u002B\u002B Code\\ClassCode3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D70836D8-7B33-4CA1-BCFF-D31A20D60E43}|ClassCode3.vcxproj|D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\C\u002B\u002B Code\\ClassCode3\\ClassCode3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D70836D8-7B33-4CA1-BCFF-D31A20D60E43}|ClassCode3.vcxproj|solutionrelative:ClassCode3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassCode3.cpp",
+              "DocumentMoniker": "D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\C\u002B\u002B Code\\ClassCode3\\ClassCode3.cpp",
+              "RelativeDocumentMoniker": "ClassCode3.cpp",
+              "ToolTip": "D:\\\u8F6F\u5DE5\u7A0B\u5E8F\\C\u002B\u002B\\C\u002B\u002B Code\\ClassCode3\\ClassCode3.cpp",
+              "RelativeToolTip": "ClassCode3.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-21T04:55:59.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  ClassCode3.cpp
+C:\Users\Administrator\Desktop\C++ Code\ClassCode3\ClassCode3.cpp(48,18): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\C++ Code\ClassCode3\ClassCode3.cpp(49,18): warning C4305: “初始化”: 从“double”到“float”截断
+  ClassCode3.vcxproj -> C:\Users\Administrator\Desktop\C++ Code\ClassCode3\x64\Debug\ClassCode3.exe

@@ -11,19 +11,11 @@
 - 运算符重载示例
 - 课程资料与习题实现代码
 
-## 仓库命名建议（可直接选用）
+## 仓库简介
 
-- `cpp-learning-notes`
-- `cpp-study-practice`
-- `cpp-course-practice`
-
-## 仓库简介（Description，可直接复制）
-
-中文：
 
 > C++ 学习过程中的练习代码与笔记整理，按学习进度持续更新。
 
-中英结合：
 
 > Personal C++ learning repository with practice code and study notes, updated progressively.
 
